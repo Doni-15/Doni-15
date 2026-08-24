@@ -1,39 +1,38 @@
-# Hi, I'm Doni 👋
+# Halo, saya Doni 👋
 
-Computer Science student at Universitas Sumatera Utara.
-Currently building fundamentals in programming, Linux, and cybersecurity.
+Mahasiswa Ilmu Komputer yang tertarik pada **Cyber Security, Linux, networking,** dan **secure software engineering**. Saya membangun fondasi melalui project kuliah, learning labs, dan eksperimen sistem yang terdokumentasi secara jujur.
 
----
+## ⭐ Featured Projects
 
-## Current Focus
+- [**SwaDrive**](https://github.com/Doni-15/SwaDrive) — personal cloud dengan Go, Flutter, Linux, private networking, dan arsitektur berorientasi least privilege.
+- [**Teknisio**](https://github.com/Doni-15/Teknisio) — aplikasi pemesanan layanan kolaboratif dengan Spring Boot, Android, PostgreSQL, JWT, dan WebSocket.
+- [**Metopen-Doni**](https://github.com/Doni-15/Metopen-Doni) — research coursework tentang pengujian function-level dan object-level authorization.
 
-* C++ programming fundamentals
-* Linux command-line workflow
-* Cybersecurity fundamentals
-* Beginner offensive security labs
-* Networking basics
+## 🛡️ Security & Systems
 
----
+- [SwaDrive](https://github.com/Doni-15/SwaDrive) — identity separation, service isolation, dan private networking pada personal cloud.
+- [Metopen-Doni](https://github.com/Doni-15/Metopen-Doni) — metodologi pengujian authorization dalam konteks penelitian mahasiswa.
 
-## Learning Platforms
+## 💻 Software Engineering
 
-* Coddy — C++ practice
-* Cisco Networking Academy — Introduction to Cybersecurity
-* TryHackMe — beginner cybersecurity labs
-* OverTheWire Bandit — Linux and command-line challenges
+- [Teknisio](https://github.com/Doni-15/Teknisio) — backend, mobile client, authentication, role-based behavior, dan realtime communication.
+- [Books API](https://github.com/Doni-15/Books-API) — REST API dengan public reads, protected mutations, PostgreSQL, dan security tests.
+- [SOS](https://github.com/Doni-15/SOS-s-Project) — coursework sistem self-ordering restoran dengan React, Express, Prisma, PostgreSQL, dan RBAC.
 
----
+## 🎓 Coursework
 
-## GitHub Activity
+- [Web Programming Coursework](https://github.com/Doni-15/web-programming-coursework) — HTML, CSS, JavaScript, Tailwind CSS, dan React.
+- [C++ Programming Coursework](https://github.com/Doni-15/cpp-programming-coursework) — fundamental pemrograman, struktur data, dan algoritma.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doni-15&show_icons=true&theme=transparent&hide_border=true" />
-</p>
+## 🧪 Learning Labs
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Doni-15&theme=transparent&hide_border=true" />
-</p>
+- [Programming Learning Labs](https://github.com/Doni-15/programming-learning-labs) — latihan kecil C++ dan Pascal yang dikonsolidasikan.
+- [Bash Practice](https://github.com/Doni-15/Bash_Practice) — latihan Bash, Linux terminal, troubleshooting, dan dasar system administration.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doni-15&theme=github-compact&hide_border=true" />
-</p>
+## Teknologi
+
+- **Languages:** Go, Java, JavaScript, C++, Dart, Bash, SQL
+- **Frameworks:** Spring Boot, Flutter, Android, React, Express
+- **Systems / Tools:** Linux, PostgreSQL, Git, Tailscale, WebSocket
+
+Saat ini saya terus memperdalam Linux, networking, authorization testing, dan praktik pengembangan software yang aman.
